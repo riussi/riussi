@@ -10,6 +10,7 @@
 - 📫 How to reach me: @Riussi on Twitter or on LinkedIn
 - ⚡ Fun fact: I have planted more than 2.5 million trees in my time (when I was working thru school in the forest industry)
 
+Most of my hobby stuff is private under my Gitlab-account, not here.
 <!--
 **riussi/riussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
