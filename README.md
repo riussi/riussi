@@ -2,7 +2,7 @@
 
 - I've been working in software professionally for 20+ years
 - I wrote my first program in 1986 (Commodore 64 Basic)
-- 🔭 I’m currently working on opening up the digital assets world to all players
+- 🔭 I’m currently working on building the next generation Investment API Platform at Upvest
 - 🌱 I’m currently learning more about Rust (and modern >= C++17) 
 - 👯 I’m looking to collaborate on bringing real-world assets to the digital world via tokenisation.
 - 🤔 I’m looking for help with hiring more Golang/microservices/Docker/K8S engineers. Only direct hires though, no room for agency fees.
