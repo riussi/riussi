@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on building the next generation Investment API Platform at Upvest
 - 🌱 I’m currently learning more about Rust (and modern >= C++17) 
 - 👯 I’m looking to collaborate on bringing real-world assets to the digital world via tokenisation.
-- 🤔 I’m looking for help with hiring more Golang/microservices/Docker/K8S engineers. Only direct hires though, no room for agency fees.
+- 🤔 I’m looking for help with hiring more Golang/microservices/Docker/Kafka/K8S engineers. Only direct hires though, no room for agency fees.
 - 💬 Ask me about blockchains, DLT, microservices, observability, scaling teams
 - 📫 How to reach me: @Riussi on Twitter or on LinkedIn
 - ⚡ Fun fact: I have planted more than 2.5 million trees in my time (when I was working thru school in the forest industry)
